@@ -1,5 +1,5 @@
 # Project ARTG-25: Games as Art and Activism
-https://tasiann.github.io/new_title.PNG
+![alt text](https://tasiann.github.io/new_title.PNG)
 
 # Personal Statement
 Alien Love is a dating simulator that explores the concept of "love" through an alien's point of view. Your main goal is to find different partners to better understand how humans think about love. In this game, there's a total of five possible love interests you can choose from; fifteen endings in total. After going through each one, you soon discover that every love option leads to your character having no sort of infatuation with any of the five characters. The reason for this choice is to express the life of someone who is Aromantic and/or Asexual, or anyone who falls under these umbrellas.
